@@ -4,7 +4,22 @@ A very opinionated static site project scaffold with Eleventy. Made for use as a
 
 ## How to use this repo
 
-TODO
+- This is a GitHub template repo. See the [official docs](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) for a detailed description of how templates work
+- Generate a new repo based off this template with the "Use this repo" button or [Generate](https://github.com/ideas42ventures/eleventy-starter/generate)
+- If deploying to Netlify, create a new site from the generated repo
+- In the README of the generated repo
+  - Remove this top section
+  - Update the (✏️ CHANGE ME FOR YOUR PROJECT) sections below
+  - Make any other changes needed for your project
+- From there, make any changes needed to the project. Projects are not required to continue using anything in this template
+
+## What's included
+
+- Standard Eleventy foundation with decisions made about templates and locations
+- Local dev tooling; Prettier, eslint, and precommit hooks for both with lint-staged and husky
+- A recommened directory structure for templates and static assets
+- A recommended CSS organization structure with basic concatenation
+- A working web manifest
 
 ---
 
